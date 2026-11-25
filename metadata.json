@@ -1,0 +1,6 @@
+{
+  "name": "MedLogic Hospital QA",
+  "description": "Interactive story-driven showcase and live symbolic AI inference studio for a rule-based Hospital Information Question Answering System without NLP or RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
